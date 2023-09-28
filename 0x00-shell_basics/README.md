@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete a file
+Delete a direction
