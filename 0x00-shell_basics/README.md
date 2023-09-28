@@ -1,2 +1,2 @@
 #!/bin/bash
-Change the working directory to the user home directory
+Display current directory contents in long format
