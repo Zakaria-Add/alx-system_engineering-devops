@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete a direction
+Back to the previous directory
